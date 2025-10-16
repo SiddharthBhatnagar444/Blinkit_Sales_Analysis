@@ -16,7 +16,7 @@ Blinkit wants to understand its product performance, outlet sales, and location-
 - Top-selling categories: Fruits & Vegetables, Snack Foods.
 
 ## 📌 Dashboard
-[Download Dashboard (PDF)](Blinkit_Sales_Dashboard.pdf)
+[Download Dashboard (PDF)](Blinkit Sales Project.pdf)
 
 ## 🖼️ Preview
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview](Blinkit.png)
